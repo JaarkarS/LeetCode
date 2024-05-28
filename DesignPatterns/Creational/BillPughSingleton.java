@@ -1,4 +1,4 @@
-package DesignPatterns.CreationalPattern;
+package DesignPatterns.Creational;
 
 public class BillPughSingleton {
 

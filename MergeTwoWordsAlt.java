@@ -19,8 +19,8 @@ public class MergeTwoWordsAlt {
         return mergedword.toString();
 
     }
-    public static void main(String[] args){
-        System.out.println(mergeAlternately("ab","pqr"));
-    }
+        public static void main(String[] args){
+           System.out.println(mergeAlternately("ab","pqr"));
+        }
 
 }
